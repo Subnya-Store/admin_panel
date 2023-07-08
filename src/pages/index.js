@@ -4,7 +4,7 @@ import { Button } from "@material-tailwind/react";
 export default function index() {
   return (
     <div className='bg-red-300'>
-      <Button>hello</Button>
+      hello
     </div>
   )
 }
